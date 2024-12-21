@@ -1,5 +1,5 @@
-export default function App(){
-	console.log('ambatukam')
-}
+export default function App(...value){
 
-App()
+	const data = ,,,value;
+	console.log(data)
+}
